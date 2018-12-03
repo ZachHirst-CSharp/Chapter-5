@@ -1,0 +1,7 @@
+C:\Users\zh311478\Desktop\C#\Chapter-5\SumForInt\SumForInt\bin\Debug\SumForInt.exe.config
+C:\Users\zh311478\Desktop\C#\Chapter-5\SumForInt\SumForInt\bin\Debug\SumForInt.exe
+C:\Users\zh311478\Desktop\C#\Chapter-5\SumForInt\SumForInt\bin\Debug\SumForInt.pdb
+C:\Users\zh311478\Desktop\C#\Chapter-5\SumForInt\SumForInt\obj\Debug\SumForInt.csprojAssemblyReference.cache
+C:\Users\zh311478\Desktop\C#\Chapter-5\SumForInt\SumForInt\obj\Debug\SumForInt.csproj.CoreCompileInputs.cache
+C:\Users\zh311478\Desktop\C#\Chapter-5\SumForInt\SumForInt\obj\Debug\SumForInt.exe
+C:\Users\zh311478\Desktop\C#\Chapter-5\SumForInt\SumForInt\obj\Debug\SumForInt.pdb
